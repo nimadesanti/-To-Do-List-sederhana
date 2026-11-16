@@ -12,4 +12,3 @@ new MutationObserver(perbaruiJumlah).observe(daftarHitung, {
 });
 
 perbaruiJumlah();
-gir 
