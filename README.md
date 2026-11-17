@@ -30,10 +30,15 @@ Membuat aplikasi pengelolaan tugas sederhana agar pengguna dapat mencatat tugas 
 | Peran | Tanggung Jawab |
 
 ISRAWATI | Product Owner | Product Backlog, Sprint Review, README.md |
+
 NI MADE SANTI WARDANI | Scrum Master | Repository GitHub, Daily Scrum, merge Pull Request, index.html |
+
 MARWA FAIQATUZZIHNI ALYA S. | Developer 1 | script.js |
+
 MUHAMMAD FIKRI ARRAYYAN | Developer 2 | style.css |
+
 MUHHAMMAD FIKRI ARRAYAN | Developer 3 | hapus.js |
+
 LA ODE SUBUN | Developer 4 | hitung.js |
 
 ## Cara Menjalankan Aplikasi
