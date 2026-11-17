@@ -43,4 +43,4 @@ Membuat aplikasi pengelolaan tugas sederhana agar pengguna dapat mencatat tugas 
 4. Jalankan dan uji fitur aplikasi.
 
 ## Repository
-GitHub: https://github.com/nimadesanti/To-Do-List-sederhana
+GitHub: https://github.com/nimadesanti/todo-kelompok-6
