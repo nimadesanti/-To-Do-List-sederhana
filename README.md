@@ -28,13 +28,13 @@ Membuat aplikasi pengelolaan tugas sederhana agar pengguna dapat mencatat tugas 
 ## Anggota Kelompok dan Pembagian Tugas
 
 | Peran | Tanggung Jawab |
-|---|---|
-| Product Owner | Product Backlog, Sprint Review, README.md |
-| Scrum Master | Repository GitHub, Daily Scrum, merge Pull Request, index.html |
-| Developer 1 | script.js |
-| Developer 2 | style.css |
-| Developer 3 | hapus.js |
-| Developer 4 | hitung.js |
+
+ISRAWATI | Product Owner | Product Backlog, Sprint Review, README.md |
+NI MADE SANTI WARDANI | Scrum Master | Repository GitHub, Daily Scrum, merge Pull Request, index.html |
+MARWA FAIQATUZZIHNI ALYA S. | Developer 1 | script.js |
+MUHAMMAD FIKRI ARRAYYAN | Developer 2 | style.css |
+MUHHAMMAD FIKRI ARRAYAN | Developer 3 | hapus.js |
+LA ODE SUBUN | Developer 4 | hitung.js |
 
 ## Cara Menjalankan Aplikasi
 1. Clone repository ke komputer.
@@ -43,4 +43,4 @@ Membuat aplikasi pengelolaan tugas sederhana agar pengguna dapat mencatat tugas 
 4. Jalankan dan uji fitur aplikasi.
 
 ## Repository
-GitHub: https://github.com/nimadesanti/todo-kelompok-6
+GitHub: https://github.com/nimadesanti/todo-kelompok-1
